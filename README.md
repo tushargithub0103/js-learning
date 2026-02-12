@@ -1,2 +1,2 @@
 # js-learning
-Code repo for javascript
+Code repo for javascript basic to advance
